@@ -1,2 +1,4 @@
-# Authenticated-todo-app
-A secure to-do list app with user authentication. Users can sign up, log in, and manage personal tasks privately. Includes features like add, edit, complete, and delete tasks. Built with modern web technologies and JWT-based authentication.
+# Django-To-Do-list-with-user-authentication
+To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
+
+![DEMO](../master/Django%20To%20Do%20List%20App.jpg)
